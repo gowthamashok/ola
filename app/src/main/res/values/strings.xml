@@ -1,3 +1,22 @@
 <resources>
-    <string name="app_name">ola</string>
+    <string name="app_name">Ola</string>
+    <string name="Book_your_ride">Book Your Ride</string>
+    <string name="your_ride">Your Ride</string>
+    <string name="Rate_card">Rate Card</string>
+    <string name="Payment">Payment</string>
+    <string name="Refer_and_Earn">Refer And Earn</string>
+    <string name="Support">Support</string>
+    <string name="About">About</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+
+    <string name="nav_drawer_open">Open navigation drawer</string>
+    <string name="nav_drawer_close">Open navigation drawer</string>
+
+    <string name="Tag_name">Explore new way to travel with Ola</string>
+    <string name="Login_Btn_1_text">Continue with Phone number</string>
+    <string name="Login_Btn_2_text">Google</string>
+    <string name="Login_Btn_3_text">Facebook</string>
+    <string name="terms_and_condition_text">By continuing,you agree that you read the and accept our Terms and Conditions and Privacy Policy </string>
+
 </resources>

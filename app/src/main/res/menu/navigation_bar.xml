@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/navbar_book_ride"
+            android:icon="@drawable/ic_directions_car_black_24dp"
+            android:title="@string/Book_your_ride" />
+
+    </group>
+
+
+    <group
+        android:id="@+id/group2"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/navbar_your_ride"
+            android:icon="@drawable/ic_access_time_black_24dp"
+            android:title="@string/your_ride" />
+
+    </group>
+
+
+    <group
+        android:id="@+id/group3"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/navbar_rate_card"
+            android:icon="@drawable/ic_card_giftcard_black_24dp"
+            android:title="@string/Rate_card" />
+
+    </group>
+
+    <group
+        android:id="@+id/group4"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/navbar_payment"
+            android:icon="@drawable/ic_credit_card_black_24dp"
+            android:title="@string/Payment" />
+
+    </group>
+
+    <group
+        android:id="@+id/group5"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/navbar_refer_earn"
+            android:icon="@drawable/ic_card_giftcard_black_24dp"
+            android:title="@string/Refer_and_Earn" />
+
+
+    </group>
+
+    <group
+        android:id="@+id/group6">
+
+        <item
+            android:id="@+id/navbar_support"
+            android:icon="@drawable/ic_turned_in_not_black_24dp"
+            android:title="@string/Support" />
+
+    </group>
+
+    <group
+        android:id="@+id/group7">
+
+        <item
+            android:id="@+id/navbar_about"
+            android:icon="@drawable/ic_error_outline_black_24dp"
+            android:title="@string/About" />
+
+    </group>
+</menu>
+
